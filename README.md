@@ -1,6 +1,6 @@
 # AI Filmmaking Workflow Toolkit
 
-An open educational project dedicated to researching and documenting AI-powered filmmaking, video editing, color grading, post-production workflows, and creative automation.
+An open educational project focused on researching, documenting, and sharing practical AI-powered filmmaking, video editing, color grading, post-production workflows, and creative automation techniques.
 
 ## 🎯 Mission
 
